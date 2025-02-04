@@ -15,3 +15,5 @@ Python is superior to C++ in a lot of different ways, but I found that it is hig
 <img width="839" alt="Python Download" src="https://github.com/user-attachments/assets/c4a63b58-1eb8-4f54-92e1-eab9d5b108fc" />
 
 ## Question 4
+
+<img width="1421" alt="Github Repository Setup" src="https://github.com/user-attachments/assets/442f7931-3547-454f-9578-9f2d5fc5ed37" />
